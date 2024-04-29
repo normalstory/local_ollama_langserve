@@ -1,0 +1,8 @@
+.cache/
+**/__pycache__/**
+/langServe_localRag
+
+.env
+*.DS_Store
+*.pyc
+*.gguf
