@@ -1,5 +1,5 @@
 
-# 무료로 한국어🇰🇷 파인튜닝 모델 받아서 나만의 로컬 LLM 호스팅 하기(LangServe) + RAG 까지!!
+# 무료로 한국어🇰🇷 파인튜닝 모델 받아서 나만의 로컬 LLM 호스팅 하기(LangServe)!!
 [![코드 작성 히스토리]](https://normalstory.tistory.com/entry/LangChain-%ED%85%8C%EB%94%94%EB%85%B8%ED%8A%B8-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-LangServe%EC%88%98%EC%A0%95%EB%B3%B8)
 
 
